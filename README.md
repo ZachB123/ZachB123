@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ZachB123
-- 👀 I’m interested in Web Development and Backend/Databases
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me zach.buchholz7@gmail.com
 
 <!---
